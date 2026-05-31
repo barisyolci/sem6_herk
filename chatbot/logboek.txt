@@ -1,0 +1,62 @@
+Persoonlijk logboek – voortgang, keuzes en leerervaringen
+Periode: 20-11-2025 t/m 25-01-2026 (elke donderdag)
+
+Donderdag 20-11-2025
+- Voortgang: Inventarisatie van de huidige projectstructuur en datasets afgerond.
+- Keuzes: Gekozen om eerst de baseline-evaluaties te draaien voordat extra training wordt gestart.
+- Leerervaringen: Beter inzicht gekregen in de relatie tussen datasetkwaliteit en benchmarkresultaten.
+
+Donderdag 27-11-2025
+- Voortgang: Eerste benchmarkrun opgezet en uitgevoerd.
+- Keuzes: In de evaluatie meer focus gelegd op factuality-vragen om hallucinaties vroeg te detecteren.
+- Leerervaringen: Gemerkt dat kleine prompt-aanpassingen al meetbare invloed hebben op scores.
+- Extra: Video bekeken over LoRA (https://youtu.be/DhRoTONcyZE).
+
+Donderdag 04-12-2025
+- Voortgang: Logica voor het verzamelen van resultaten aangescherpt.
+- Keuzes: Resultaten opgeslagen in een gestandaardiseerd CSV-formaat om vergelijking te vereenvoudigen.
+- Leerervaringen: Consistente logging bespaart veel tijd bij het terugzoeken van regressies.
+
+Donderdag 11-12-2025
+- Voortgang: Eerste trainingsconfiguraties voor GRPO/Lora vergeleken.
+- Keuzes: Starten met LoRA vanwege lagere compute-kosten.
+- Leerervaringen: Kosten-baten afwegingen zijn cruciaal bij iteratief modeltrainen.
+- Extra: Video bekeken over LoRA (https://youtu.be/t1caDsMzWBk).
+
+Donderdag 18-12-2025
+- Voortgang: Eerste LoRA-trainingsrun gepland.
+- Keuzes: Korte training gekozen om pipeline en metrics te valideren.
+- Leerervaringen: Snelle validatie voorkomt dat fouten pas laat worden ontdekt.
+
+Donderdag 25-12-2025
+- Voortgang: Resultaten van de korte run geanalyseerd.
+- Keuzes: Besloten om meer aandacht te geven aan data-cleaning.
+- Leerervaringen: Ruis in de dataset vertaalt zich direct in instabiele outputs.
+
+Donderdag 01-01-2026
+- Voortgang: Dataset opgeschoond en opnieuw gesampled.
+- Keuzes: Duidelijke scheiding aangebracht tussen train- en evaluatiesets.
+- Leerervaringen: Strikte datadiscipline voorkomt leakage in benchmarks.
+- Extra: Video bekeken over LoRA (https://youtu.be/Us5ZFp16PaU).
+
+Donderdag 08-01-2026
+- Voortgang: Nieuwe trainingsrun met opgeschoonde data gestart.
+- Keuzes: Learning rate iets verlaagd voor stabiliteit.
+- Leerervaringen: Kleine hyperparameter-aanpassingen geven grote verschillen in convergentie.
+- Extra: Met behulp van AI de Groq data generator toegepast omdat het me steeds niet lukte.
+
+Donderdag 15-01-2026
+- Voortgang: Tussentijdse evaluatie uitgevoerd.
+- Keuzes: Extra focus gelegd op foutcategorieën in de benchmarkrapportage.
+- Leerervaringen: Het labelen van fouten helpt gerichter bijsturen in training.
+- Extra: Cursusmodule bekeken: https://www.deeplearning.ai/courses/fine-tuning-and-reinforcement-learning-for-llms-intro-to-post-training/
+
+Donderdag 22-01-2026
+- Voortgang: Laatste verbeteringen aan evaluatiescripts doorgevoerd.
+- Keuzes: Resultaten ook visueel samengevat voor snel overzicht.
+- Leerervaringen: Visualisaties maken trends sneller zichtbaar dan ruwe tabellen.
+
+Donderdag 29-01-2026
+- Voortgang: Eindrapport voor de periode opgesteld.
+- Keuzes: Documentatie van keuzes toegevoegd om reproduceerbaarheid te verhogen.
+- Leerervaringen: Duidelijke besluitvorming en documentatie versnellen toekomstige iteraties.
