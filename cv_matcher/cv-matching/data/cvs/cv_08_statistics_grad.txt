@@ -1,0 +1,1 @@
+Recent statistics graduate with coursework in regression, classification, and data preprocessing. Completed a capstone on text clustering using TF-IDF. Comfortable with Python and pandas.

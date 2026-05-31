@@ -1,0 +1,1 @@
+Backend Python developer building REST APIs and ETL services. Uses Docker, Git, and AWS. Limited ML exposure but collaborated with data scientists on model integration.

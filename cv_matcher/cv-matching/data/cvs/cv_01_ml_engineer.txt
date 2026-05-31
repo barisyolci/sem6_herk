@@ -1,0 +1,1 @@
+Junior ML Engineer with 2 years building NLP classifiers in Python. Uses scikit-learn and PyTorch, writes data preprocessing pipelines, and tracks experiments. Familiar with embeddings, cosine similarity, and model evaluation metrics. Deployed Docker containers to AWS.
