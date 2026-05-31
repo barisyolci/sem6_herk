@@ -1,0 +1,8 @@
+artifact_location: file:C:\Users\baris\school\jaar 3\tech_herk\Inleveren\Inleveren\chatbot\mlruns/337957839425977380
+creation_time: 1780248816195
+experiment_id: '337957839425977380'
+last_update_time: 1780248816195
+lifecycle_stage: active
+name: llama3-8b-grpo-safety
+trace_location: null
+workspace: default
