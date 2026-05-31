@@ -1,1 +1,0 @@
-Full-stack JavaScript developer focused on React and Node.js. Builds web apps, APIs, and UI components. No machine learning experience.

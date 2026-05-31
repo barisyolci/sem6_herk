@@ -1,1 +1,0 @@
-BI analyst creating dashboards and insights with SQL and visualization tools. Some exposure to predictive analytics and feature engineering.

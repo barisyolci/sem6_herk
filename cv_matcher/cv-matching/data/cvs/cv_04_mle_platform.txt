@@ -1,1 +1,0 @@
-Machine learning engineer working on model serving and deployment. Built Docker images, CI for model validation, and batch inference jobs. Experience with PyTorch, vector similarity search, and feature engineering.

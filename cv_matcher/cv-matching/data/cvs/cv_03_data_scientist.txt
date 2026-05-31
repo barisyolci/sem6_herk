@@ -1,1 +1,0 @@
-Data scientist with ML projects in text analytics, recommendation, and churn. Comfortable with scikit-learn, pandas, and A/B testing. Implemented text feature pipelines, model validation, and reporting.

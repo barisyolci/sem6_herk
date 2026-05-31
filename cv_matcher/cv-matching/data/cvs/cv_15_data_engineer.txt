@@ -1,1 +1,0 @@
-Data engineer building pipelines in Python and SQL, optimizing data warehouses, and managing batch jobs. Supports ML teams with feature stores and data quality checks.

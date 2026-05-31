@@ -1,1 +1,0 @@
-AI product manager coordinating NLP features and user requirements. Familiar with ML metrics and model evaluation concepts, but no hands-on model development.

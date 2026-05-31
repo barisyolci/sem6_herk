@@ -1,1 +1,0 @@
-NLP engineer focused on document classification and entity extraction. Skilled in Python, transformers, and traditional TF-IDF baselines. Built evaluation dashboards, used SQL for analytics, and maintained Git workflows.
