@@ -1,0 +1,23 @@
+DANIEL CROSS
+Cybersecurity Analyst | Threat Intelligence
+
+PROFESSIONAL SUMMARY
+Security professional with expertise in network monitoring, incident response, and compliance frameworks. Focused on risk assessment, vulnerability management, and secure architecture design.
+
+TECHNICAL SKILLS
+SIEM, Wireshark, Nessus, Splunk, Python (scripting), Linux, Bash, NIST, ISO 27001, AWS Security, Git
+
+PROFESSIONAL EXPERIENCE
+Security Analyst | CyberShield Corp | 2021-Present
+- Monitored network traffic and investigated alerts for potential breaches
+- Conducted vulnerability assessments and coordinated patch remediation timelines
+- Authored incident response playbooks and led tabletop exercises
+- Maintained compliance documentation and prepared for external audits
+
+IT Security Specialist | DataGuard Solutions | 2018-2021
+- Implemented endpoint protection and DLP policies across enterprise endpoints
+- Managed firewall rules, IDS/IPS configurations, and VPN access controls
+- Trained staff on phishing awareness and secure password practices
+
+EDUCATION
+B.S. Cybersecurity, Rochester Institute of Technology

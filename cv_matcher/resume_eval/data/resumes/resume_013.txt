@@ -1,0 +1,23 @@
+EMILY CARTER
+Technical Writer | Documentation Lead
+
+PROFESSIONAL SUMMARY
+Communications professional specializing in API documentation, developer guides, and process standardization. Experienced in cross-functional collaboration and information architecture.
+
+TECHNICAL SKILLS
+Markdown, Swagger/OpenAPI, Confluence, Sphinx, Git, Python (basic), JIRA, Figma, HTML/CSS (basic), LaTeX
+
+PROFESSIONAL EXPERIENCE
+Senior Technical Writer | DocuTech Inc | 2019-Present
+- Authored comprehensive API references, SDK guides, and integration tutorials
+- Structured knowledge base navigation and implemented search optimization
+- Collaborated with engineering to maintain versioned documentation releases
+- Reduced support tickets by 25% through improved self-service resources
+
+Documentation Specialist | CloudSoft Labs | 2016-2019
+- Created onboarding materials, troubleshooting FAQs, and release notes
+- Managed style guides and enforced terminology consistency across teams
+- Coordinated localization workflows and maintained translation memory databases
+
+EDUCATION
+B.A. English & Communications, University of Pennsylvania
