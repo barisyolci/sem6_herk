@@ -1,4 +1,0 @@
-approach,hit_rate_k1,hit_rate_k3,hit_rate_k5,precision_k3,avg_pos_relevant
-tfidf,100.0,100.0,100.0,100.0,2.0
-semantic,100.0,100.0,100.0,100.0,2.0
-llm,100.0,100.0,100.0,100.0,2.0
