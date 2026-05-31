@@ -1,0 +1,249 @@
+{
+  "runs": [
+    {
+      "run_id": "20260531_143049_aq26",
+      "created_at": "2026-05-31T14:30:49.115401",
+      "model": "llama-3.3-70b-versatile",
+      "max_completion_tokens": 8192,
+      "temperature": 1.0,
+      "target": 2000,
+      "raw_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_raw_20260531_143049_aq26.json",
+      "rl_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_rl_training_20260531_143049_aq26.jsonl",
+      "status": "running"
+    },
+    {
+      "run_id": "20260531_143458_zrwl",
+      "created_at": "2026-05-31T14:34:58.176372",
+      "model": "llama-3.3-70b-versatile",
+      "max_completion_tokens": 8192,
+      "temperature": 1.0,
+      "target": 2000,
+      "raw_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_raw_20260531_143458_zrwl.json",
+      "rl_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_rl_training_20260531_143458_zrwl.jsonl",
+      "status": "running"
+    },
+    {
+      "run_id": "20260531_144132_2o24",
+      "created_at": "2026-05-31T14:41:32.810360",
+      "model": "llama-3.3-70b-versatile",
+      "max_completion_tokens": 8192,
+      "temperature": 1.0,
+      "target": 2000,
+      "raw_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_raw_20260531_144132_2o24.json",
+      "rl_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_rl_training_20260531_144132_2o24.jsonl",
+      "status": "running"
+    },
+    {
+      "run_id": "20260531_144430_ssrb",
+      "created_at": "2026-05-31T14:44:30.466894",
+      "model": "llama-3.3-70b-versatile",
+      "max_completion_tokens": 8192,
+      "temperature": 1.0,
+      "target": 2000,
+      "raw_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_raw_20260531_144430_ssrb.json",
+      "rl_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_rl_training_20260531_144430_ssrb.jsonl",
+      "status": "running"
+    },
+    {
+      "run_id": "20260531_150541_qg52",
+      "created_at": "2026-05-31T15:05:41.403908",
+      "model": "llama-3.3-70b-versatile",
+      "max_completion_tokens": 8192,
+      "temperature": 1.0,
+      "target": 50,
+      "raw_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_raw_20260531_150541_qg52.json",
+      "rl_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_rl_training_20260531_150541_qg52.jsonl",
+      "status": "running"
+    },
+    {
+      "run_id": "20260531_151103_bho5",
+      "created_at": "2026-05-31T15:11:03.582596",
+      "model": "meta-llama/llama-3.1-8b-instant",
+      "max_completion_tokens": 8192,
+      "temperature": 1.0,
+      "target": 50,
+      "raw_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_raw_20260531_151103_bho5.json",
+      "rl_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_rl_training_20260531_151103_bho5.jsonl",
+      "status": "running"
+    },
+    {
+      "run_id": "20260531_152718_pjzl",
+      "created_at": "2026-05-31T15:27:18.311136",
+      "model": "llama-3.1-8b-instant",
+      "max_completion_tokens": 8192,
+      "temperature": 1.0,
+      "target": 50,
+      "raw_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_raw_20260531_152718_pjzl.json",
+      "rl_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_rl_training_20260531_152718_pjzl.jsonl",
+      "status": "running"
+    },
+    {
+      "run_id": "20260531_153301_tk30",
+      "created_at": "2026-05-31T15:33:01.314392",
+      "model": "mixtral-8x7b-32768",
+      "max_completion_tokens": 8192,
+      "temperature": 1.0,
+      "target": 50,
+      "raw_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_raw_20260531_153301_tk30.json",
+      "rl_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_rl_training_20260531_153301_tk30.jsonl",
+      "status": "running"
+    },
+    {
+      "run_id": "20260531_153600_41gp",
+      "created_at": "2026-05-31T15:36:00.572349",
+      "model": "llama-3.3-70b-versatile",
+      "max_completion_tokens": 8192,
+      "temperature": 1.0,
+      "target": 50,
+      "raw_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_raw_20260531_153600_41gp.json",
+      "rl_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_rl_training_20260531_153600_41gp.jsonl",
+      "status": "running"
+    },
+    {
+      "run_id": "20260531_154027_c1hr",
+      "created_at": "2026-05-31T15:40:27.853460",
+      "model": "qwen-2.5-32b",
+      "max_completion_tokens": 8192,
+      "temperature": 1.0,
+      "target": 50,
+      "raw_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_raw_20260531_154027_c1hr.json",
+      "rl_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_rl_training_20260531_154027_c1hr.jsonl",
+      "status": "running"
+    },
+    {
+      "run_id": "20260531_154159_gtbc",
+      "created_at": "2026-05-31T15:41:59.568211",
+      "model": "openai/gpt-oss-20b",
+      "max_completion_tokens": 8192,
+      "temperature": 1.0,
+      "target": 50,
+      "raw_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_raw_20260531_154159_gtbc.json",
+      "rl_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_rl_training_20260531_154159_gtbc.jsonl",
+      "status": "running"
+    },
+    {
+      "run_id": "20260531_154302_qje7",
+      "created_at": "2026-05-31T15:43:02.842097",
+      "model": "llama-3.1-8b-instant",
+      "max_completion_tokens": 8192,
+      "temperature": 1.0,
+      "target": 50,
+      "raw_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_raw_20260531_154302_qje7.json",
+      "rl_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_rl_training_20260531_154302_qje7.jsonl",
+      "status": "running"
+    },
+    {
+      "run_id": "20260531_154344_effr",
+      "created_at": "2026-05-31T15:43:44.501991",
+      "model": "openai/gpt-oss-120b",
+      "max_completion_tokens": 8192,
+      "temperature": 1.0,
+      "target": 50,
+      "raw_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_raw_20260531_154344_effr.json",
+      "rl_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_rl_training_20260531_154344_effr.jsonl",
+      "status": "running"
+    },
+    {
+      "run_id": "20260531_155254_gz3m",
+      "created_at": "2026-05-31T15:52:54.058639",
+      "model": "qwen-2.5-32b",
+      "max_completion_tokens": 8192,
+      "temperature": 1.0,
+      "target": 50,
+      "raw_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_raw_20260531_155254_gz3m.json",
+      "rl_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_rl_training_20260531_155254_gz3m.jsonl",
+      "status": "running"
+    },
+    {
+      "run_id": "20260531_155443_z6c4",
+      "created_at": "2026-05-31T15:54:43.647371",
+      "model": "openai/gpt-oss-120b",
+      "max_completion_tokens": 8192,
+      "temperature": 1.0,
+      "target": 50,
+      "raw_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_raw_20260531_155443_z6c4.json",
+      "rl_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_rl_training_20260531_155443_z6c4.jsonl",
+      "status": "running"
+    },
+    {
+      "run_id": "20260531_161948_r5kr",
+      "created_at": "2026-05-31T16:19:48.347171",
+      "model": "llama-3.1-8b-instant",
+      "max_completion_tokens": 8192,
+      "temperature": 1.0,
+      "target": 50,
+      "raw_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_raw_20260531_161948_r5kr.json",
+      "rl_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_rl_training_20260531_161948_r5kr.jsonl",
+      "status": "running"
+    },
+    {
+      "run_id": "20260531_162203_eewa",
+      "created_at": "2026-05-31T16:22:03.155914",
+      "model": "llama-3.1-8b-instant",
+      "max_completion_tokens": 8192,
+      "temperature": 1.0,
+      "target": 50,
+      "raw_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_raw_20260531_162203_eewa.json",
+      "rl_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_rl_training_20260531_162203_eewa.jsonl",
+      "status": "running"
+    },
+    {
+      "run_id": "20260531_162520_fwu2",
+      "created_at": "2026-05-31T16:25:20.679576",
+      "model": "qwen/qwen3-32b",
+      "max_completion_tokens": 8192,
+      "temperature": 1.0,
+      "target": 50,
+      "raw_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_raw_20260531_162520_fwu2.json",
+      "rl_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_rl_training_20260531_162520_fwu2.jsonl",
+      "status": "running"
+    },
+    {
+      "run_id": "20260531_173224_0y4q",
+      "created_at": "2026-05-31T17:32:24.468522",
+      "model": "gemini-2.0-flash",
+      "max_completion_tokens": 600,
+      "temperature": 0.4,
+      "target": 50,
+      "raw_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_raw_20260531_173224_0y4q.json",
+      "rl_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_rl_training_20260531_173224_0y4q.jsonl",
+      "status": "running"
+    },
+    {
+      "run_id": "20260531_173603_c1i0",
+      "created_at": "2026-05-31T17:36:03.604820",
+      "model": "gemini-2.0-flash",
+      "max_completion_tokens": 600,
+      "temperature": 0.4,
+      "target": 50,
+      "raw_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_raw_20260531_173603_c1i0.json",
+      "rl_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_rl_training_20260531_173603_c1i0.jsonl",
+      "status": "running"
+    },
+    {
+      "run_id": "20260531_174810_xzyt",
+      "created_at": "2026-05-31T17:48:10.831411",
+      "model": "meta-llama/llama-3.1-8b-instant",
+      "max_completion_tokens": 600,
+      "temperature": 0.4,
+      "target": 50,
+      "raw_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_raw_20260531_174810_xzyt.json",
+      "rl_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_rl_training_20260531_174810_xzyt.jsonl",
+      "status": "running"
+    },
+    {
+      "run_id": "20260531_175314_9hdf",
+      "created_at": "2026-05-31T17:53:14.797781",
+      "model": "meta-llama/llama-3.1-8b-instruct",
+      "max_completion_tokens": 600,
+      "temperature": 0.4,
+      "target": 50,
+      "raw_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_raw_20260531_175314_9hdf.json",
+      "rl_path": "C:\\Users\\baris\\school\\jaar 3\\tech_herk\\Inleveren\\Inleveren\\chatbot\\dataset_rl_training_20260531_175314_9hdf.jsonl",
+      "status": "complete",
+      "completed_at": "2026-05-31T17:57:06.043934",
+      "total_conversations": 50,
+      "total_training_samples": 131
+    }
+  ]
+}

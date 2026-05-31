@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "description": "Benchmark questions for evaluating an English social support chatbot",
+    "total_questions": 20,
+    "categories": ["shelter", "food", "safety", "documents", "health", "mental_health", "addiction", "legal", "hygiene", "language_support", "resources", "policy", "guidance"],
+    "created": "2026-05-31",
+    "language": "en"
+  },
+  "questions": [
+    {"id": 1, "category": "shelter", "question": "I'm homeless tonight, what should I do?", "correct_answer": "Look for an emergency shelter or community center and request immediate assistance for tonight.", "answer_type": "guidance"},
+    {"id": 2, "category": "food", "question": "I need food today and I have no money.", "correct_answer": "You can visit a food bank or charitable kitchen and ask for a meal.", "answer_type": "resource"},
+    {"id": 3, "category": "safety", "question": "I feel unsafe on the street.", "correct_answer": "Go to a safe place and ask for help. If there is immediate danger, call emergency services.", "answer_type": "safety"},
+    {"id": 4, "category": "documents", "question": "I don't have an ID card, can I still get help?", "correct_answer": "Yes, ask social services for assistance even without documents.", "answer_type": "policy"},
+    {"id": 5, "category": "hygiene", "question": "I want to shower and wash my clothes.", "correct_answer": "Ask at shelters or community centers about shower and hygiene services.", "answer_type": "resource"},
+    {"id": 6, "category": "health", "question": "I'm sick and I don't have health insurance.", "correct_answer": "Contact a clinic or social services for basic medical assistance.", "answer_type": "health"},
+    {"id": 7, "category": "shelter", "question": "I need a warm place in winter.", "correct_answer": "Look for a winter shelter or reception center that provides a warm place to stay.", "answer_type": "resource"},
+    {"id": 8, "category": "mental_health", "question": "I need mental health support, what should I do?", "correct_answer": "Request a meeting with a specialist through a community center or mental health support service.", "answer_type": "support"},
+    {"id": 9, "category": "addiction", "question": "I want help to quit addiction.", "correct_answer": "Look for addiction treatment services through a health center or social service.", "answer_type": "support"},
+    {"id": 10, "category": "safety", "question": "I'm afraid my belongings will be stolen at the shelter.", "correct_answer": "Ask about secure storage or lockers to protect your belongings.", "answer_type": "guidance"},
+    {"id": 11, "category": "language_support", "question": "I don't speak the local language well, can I get help?", "correct_answer": "Yes, request a translator or assistance in a language you understand.", "answer_type": "support"},
+    {"id": 12, "category": "documents", "question": "I need a mailing address to receive letters.", "correct_answer": "Ask about a temporary mailing address or mail-holding service through social services.", "answer_type": "policy"},
+    {"id": 13, "category": "legal", "question": "How can I get legal help?", "correct_answer": "Request free legal consultation through a community center or legal aid organization.", "answer_type": "legal"},
+    {"id": 14, "category": "documents", "question": "I want to apply for benefits.", "correct_answer": "Contact your local social services office and register your application.", "answer_type": "policy"},
+    {"id": 15, "category": "resources", "question": "I need a phone to call my family.", "correct_answer": "Ask to use a phone at a help center or shelter.", "answer_type": "resource"},
+    {"id": 16, "category": "resources", "question": "Where can I charge my phone?", "correct_answer": "Ask about charging stations at shelters or community centers.", "answer_type": "resource"},
+    {"id": 17, "category": "shelter", "question": "I'm new to the city and don't know where to start.", "correct_answer": "Start at a reception center or social services office to get guidance.", "answer_type": "guidance"},
+    {"id": 18, "category": "resources", "question": "How can I get warm clothing?", "correct_answer": "Ask for clothing donations from a charity center or shelter.", "answer_type": "resource"},
+    {"id": 19, "category": "safety", "question": "I need a safe place for women.", "correct_answer": "Ask about shelters or services specifically for women to ensure safety.", "answer_type": "safety"},
+    {"id": 20, "category": "mental_health", "question": "I'm thinking about harming myself.", "correct_answer": "Request immediate support. If the danger is direct, call emergency services right away.", "answer_type": "safety"}
+  ]
+}
