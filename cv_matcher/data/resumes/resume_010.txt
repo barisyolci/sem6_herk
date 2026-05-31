@@ -1,0 +1,23 @@
+MARCUS LEE
+QA Automation Engineer | AI Testing
+
+PROFESSIONAL SUMMARY
+Quality assurance professional with experience in test automation, CI integration, and emerging AI validation workflows. Familiar with model output verification and edge-case scenario design.
+
+TECHNICAL SKILLS
+Python, pytest, Selenium, Playwright, Jenkins, GitHub Actions, SQL, Git, Postman, Docker, JIRA
+
+PROFESSIONAL EXPERIENCE
+Senior QA Engineer | TestFlow Systems | 2020-Present
+- Built automated regression suites covering API, UI, and data pipeline validations
+- Designed test frameworks for ML output consistency and threshold-based alerts
+- Integrated performance testing into CI pipelines with load simulation tools
+- Reduced release cycle time by 30% through parallel test execution
+
+QA Analyst | SoftCore Labs | 2017-2020
+- Executed manual and automated test cases across web and mobile applications
+- Documented defects, tracked resolution metrics, and coordinated with dev teams
+- Maintained test data environments and version-controlled test artifacts
+
+EDUCATION
+B.S. Software Engineering, University of Maryland

@@ -1,0 +1,24 @@
+SOPHIA KIM
+Full-Stack ML Engineer
+
+PROFESSIONAL SUMMARY
+Software engineer with 6 years of experience deploying machine learning systems at scale. Strong focus on API design, observability, and bridging data science with production engineering.
+
+TECHNICAL SKILLS
+Python, FastAPI, Flask, PyTorch, scikit-learn, PostgreSQL, Redis, Celery, Docker, Nginx, Prometheus, Grafana, AWS Lambda
+
+PROFESSIONAL EXPERIENCE
+ML Platform Engineer | ScaleWorks Inc | 2020-Present
+- Architected model serving layer handling 10k RPM with auto-scaling and circuit breakers
+- Implemented canary deployments and A/B testing framework for ML model rollouts
+- Integrated distributed tracing and custom metrics for model performance monitoring
+- Reduced cold-start latency by 85% through model preloading and async initialization
+
+Backend Developer | DataBridge Solutions | 2017-2020
+- Built RESTful APIs for recommendation engines and predictive analytics modules
+- Optimized database queries and implemented caching strategies improving response times by 70%
+- Migrated legacy Python 2 codebase to modern async architecture
+
+EDUCATION
+M.S. Software Engineering, Carnegie Mellon University
+B.S. Computer Science, University of Washington

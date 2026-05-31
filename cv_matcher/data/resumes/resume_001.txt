@@ -1,0 +1,24 @@
+ALEX CHEN
+Machine Learning Engineer | NLP Specialist
+
+PROFESSIONAL SUMMARY
+Experienced ML engineer focused on productionizing language models and building scalable inference pipelines. Strong background in transformer architectures, fine-tuning, and cloud deployment.
+
+TECHNICAL SKILLS
+Python, PyTorch, Hugging Face Transformers, FastAPI, Docker, Kubernetes, AWS SageMaker, MLflow, Redis, PostgreSQL, Git, CI/CD
+
+PROFESSIONAL EXPERIENCE
+Senior ML Engineer | NeuroAI Systems | 2021-Present
+- Designed and deployed RAG pipelines handling 50k+ daily queries with 95% latency SLA
+- Fine-tuned open-source LLMs on domain-specific corpora using LoRA and QLoRA
+- Built model monitoring dashboards tracking drift, accuracy, and token throughput
+- Led migration from monolithic inference to microservices on EKS
+
+ML Engineer | DataFlow Labs | 2018-2021
+- Developed text classification and sentiment analysis models using scikit-learn and spaCy
+- Implemented automated data validation and feature engineering pipelines with Apache Airflow
+- Reduced inference costs by 40% through model quantization and ONNX export
+
+EDUCATION
+M.S. Computer Science, Stanford University
+B.S. Mathematics, UC Berkeley

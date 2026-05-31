@@ -1,0 +1,19 @@
+SENIOR MACHINE LEARNING ENGINEER
+
+ROLE OVERVIEW
+We are seeking a Senior Machine Learning Engineer to design, develop, and deploy scalable AI systems. The ideal candidate will have deep expertise in natural language processing, large language models, and production-grade ML pipelines.
+
+KEY RESPONSIBILITIES
+- Architect and implement end-to-end machine learning workflows from data ingestion to model deployment
+- Fine-tune and optimize transformer-based models for domain-specific applications
+- Build robust inference services with low latency and high throughput requirements
+- Collaborate with cross-functional teams to integrate AI capabilities into existing products
+- Establish MLOps practices including experiment tracking, model versioning, and performance monitoring
+
+REQUIRED QUALIFICATIONS
+- 4+ years of professional experience in machine learning engineering or applied AI research
+- Strong proficiency in Python, PyTorch, and Hugging Face ecosystem
+- Hands-on experience with containerization, cloud platforms, and CI/CD for ML
+- Demonstrated ability to productionize NLP or generative AI solutions
+- Bachelor's or Master's degree in Computer Science, Engineering, or related technical field
+

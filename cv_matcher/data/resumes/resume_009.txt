@@ -1,0 +1,24 @@
+ISABELLE CHEN
+Computational Researcher | Academic Focus
+
+PROFESSIONAL SUMMARY
+Ph.D. researcher specializing in optimization algorithms and statistical modeling. Strong theoretical background with limited production engineering experience. Proficient in Python and R for experimental work.
+
+TECHNICAL SKILLS
+Python, R, NumPy, SciPy, MATLAB, LaTeX, Git, Jupyter, Linux, HPC clusters, Slurm
+
+PROFESSIONAL EXPERIENCE
+Postdoctoral Researcher | MIT CSAIL | 2022-Present
+- Developed novel gradient-based optimization techniques for non-convex problems
+- Published 4 conference papers on convergence bounds and empirical validation
+- Mentored graduate students on experimental design and reproducibility standards
+- Maintained shared compute environment and managed job scheduling queues
+
+Research Assistant | University of Toronto | 2017-2022
+- Implemented simulation frameworks for stochastic process modeling
+- Conducted large-scale parameter sweeps and statistical significance testing
+- Collaborated with cross-disciplinary teams on applied mathematics projects
+
+EDUCATION
+Ph.D. Applied Mathematics, University of Toronto
+B.S. Mathematics, McGill University

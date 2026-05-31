@@ -1,0 +1,23 @@
+OLIVIA MORGAN
+Frontend Developer | UI/UX Specialist
+
+PROFESSIONAL SUMMARY
+Creative developer focused on responsive web design, component architecture, and user experience optimization. Strong proficiency in modern JavaScript frameworks and design systems.
+
+TECHNICAL SKILLS
+JavaScript, TypeScript, React, Next.js, Vue.js, HTML5, CSS3, Tailwind, Figma, Git, Webpack, Jest, Cypress
+
+PROFESSIONAL EXPERIENCE
+Frontend Engineer | PixelCraft Studios | 2020-Present
+- Developed reusable component libraries adopted across 3 product lines
+- Implemented state management, routing, and accessibility compliance standards
+- Collaborated with designers to translate wireframes into interactive prototypes
+- Optimized bundle size and improved Lighthouse performance scores by 40%
+
+UI Developer | WebWorks Agency | 2018-2020
+- Built marketing sites and e-commerce frontends with cross-browser compatibility
+- Integrated third-party SDKs and payment gateway interfaces
+- Conducted usability testing and iterated based on user feedback metrics
+
+EDUCATION
+B.S. Human-Computer Interaction, Carnegie Mellon University

@@ -1,0 +1,24 @@
+MAYA RODRIGUEZ
+AI/ML Systems Engineer
+
+PROFESSIONAL SUMMARY
+Data scientist transitioned to ML engineering with deep expertise in end-to-end model lifecycle management. Focused on reproducible training, distributed computing, and real-time serving.
+
+TECHNICAL SKILLS
+Python, TensorFlow, Keras, PyTorch, Dask, Ray, Spark, GCP Vertex AI, Terraform, GitHub Actions, Linux, Bash, SQL
+
+PROFESSIONAL EXPERIENCE
+ML Infrastructure Engineer | CloudScale AI | 2020-Present
+- Orchestrated distributed training jobs across 128 GPU nodes using Ray and Horovod
+- Containerized model training workflows and implemented automated hyperparameter tuning
+- Built feature store integration reducing data preparation time by 60%
+- Established model registry with versioning, lineage tracking, and rollback capabilities
+
+Data Scientist | FinTech Analytics | 2017-2020
+- Developed credit risk scoring models achieving AUC of 0.89 on imbalanced datasets
+- Engineered real-time feature extraction pipelines consuming Kafka streams
+- Published internal MLOps guidelines adopted across 4 product teams
+
+EDUCATION
+M.S. Data Science, Georgia Institute of Technology
+B.S. Industrial Engineering, University of Michigan

@@ -1,0 +1,23 @@
+RYAN FOSTER
+IT Support Specialist | Systems Administrator
+
+PROFESSIONAL SUMMARY
+Hands-on IT professional with 5 years of experience in desktop support, network troubleshooting, and hardware maintenance. Focused on user satisfaction, ticket resolution, and infrastructure reliability.
+
+TECHNICAL SKILLS
+Windows, macOS, Linux, Active Directory, DNS/DHCP, TCP/IP, PowerShell, Bash, Git (basic), Jira Service Desk, VMware
+
+PROFESSIONAL EXPERIENCE
+IT Support Lead | TechHelp Desk | 2020-Present
+- Resolved 50+ weekly tickets covering software, hardware, and connectivity issues
+- Managed user provisioning, access controls, and group policy configurations
+- Deployed imaging solutions and standardized workstation setups across offices
+- Maintained inventory tracking and coordinated vendor support escalations
+
+Help Desk Technician | OfficeNet Services | 2017-2020
+- Provided tier-1 support via phone, chat, and remote desktop tools
+- Documented common solutions and updated internal knowledge articles
+- Assisted with cable management, peripheral installations, and printer maintenance
+
+EDUCATION
+A.S. Information Systems, Valencia College

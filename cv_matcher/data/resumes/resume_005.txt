@@ -1,0 +1,24 @@
+JULIAN VEGA
+AI Solutions Architect
+
+PROFESSIONAL SUMMARY
+Cross-functional engineer specializing in enterprise AI integration, data pipeline automation, and cloud-native ML deployments. Experienced in bridging business requirements with technical implementation.
+
+TECHNICAL SKILLS
+Python, PyTorch, Hugging Face, Airflow, dbt, Snowflake, AWS S3, EC2, Step Functions, Terraform, Jenkins, GitLab CI
+
+PROFESSIONAL EXPERIENCE
+Senior AI Engineer | EnterpriseAI Partners | 2019-Present
+- Designed end-to-end ML pipelines for document processing, entity extraction, and semantic search
+- Implemented CI/CD for ML with automated testing, container scanning, and staged rollouts
+- Mentored junior engineers on model versioning, experiment tracking, and reproducibility
+- Reduced infrastructure costs by 35% through spot instance orchestration and right-sizing
+
+Data Engineer | CloudFirst Analytics | 2016-2019
+- Built real-time streaming pipelines using Kafka and Spark Structured Streaming
+- Developed ETL frameworks for multi-source data ingestion and schema evolution
+- Implemented data quality checks and anomaly detection rules across 50+ datasets
+
+EDUCATION
+M.S. Information Systems, NYU Tandon School of Engineering
+B.S. Computer Engineering, University of Texas at Austin
